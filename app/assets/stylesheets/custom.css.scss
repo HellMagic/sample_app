@@ -169,3 +169,10 @@ input, textarea, select, .uneditable_input {
   @extend .control-group;
   @extend .error;
 }
+
+#current_user {
+ margin-top: 7px;
+ margin-left: 12px;
+ font-size: 1.4em;
+ color: #fff;
+}
